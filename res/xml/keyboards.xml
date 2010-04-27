@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+	<!--
+	id := a UUID (you may want to generate this using our simple Java program at:  /trunk/project/dict_creation (uuidgen_Windows.bat or uuidgen_Linux)
+	nameResId := the resource Id which holds the name of the keyboard. See strings.xml.
+	layoutResId := the resource Id which holds the layout definition of this keyboard. The sample is an English QWERTY keyboard.
+	defaultDictionaryLocale := a locate identifier for this keyboard. E.g., English will be en, Hebrew will be iw, etc.
+	description := some text you would like to add.
+	index := the sort index of this keyboard in the Settings page.
+	 -->
+	<Keyboard 
+	id="c3e88d57-046d-40ed-b5da-4c1020472cfb" 
+	nameResId="@string/ru_keyboard"
+	layoutResId="@xml/russian_qwerty" 
+	physicalKeyboardMappingResId="@xml/ru_physical"
+	iconResId="@drawable/ru"
+	defaultDictionaryLocale="ru" 
+	description="Created with dbriskin"
+	index="1"/>
+	<Keyboard 
+	id="203ac227-a166-4732-8c17-dc525cac00c1" 
+	nameResId="@string/ru_keyboard_extra_rows"
+	layoutResId="@xml/russian_qwerty_4_rows"
+	physicalKeyboardMappingResId="@xml/ru_physical" 
+	iconResId="@drawable/ru"
+	defaultDictionaryLocale="ru" 
+	description="Created with dbriskin"
+	index="2"/>
+	<Keyboard 
+	id="44e7cf9d-5b43-4b55-b1ce-ad755d1948b2" 
+	nameResId="@string/ru_ph_keyboard"
+	layoutResId="@xml/russian_ph_qwerty"
+	physicalKeyboardMappingResId="@xml/ru_ph_physical" 
+	iconResId="@drawable/ru_ph"
+	defaultDictionaryLocale="ru" 
+	description="Created with dbriskin"
+	index="3"/>
+	<Keyboard 
+	id="126e44c3-6338-4bac-a14b-0543d2191189" 
+	nameResId="@string/ru_ph_keyboard_extra_rows"
+	layoutResId="@xml/russian_ph_qwerty_4_rows"
+	physicalKeyboardMappingResId="@xml/ru_ph_physical" 
+	iconResId="@drawable/ru_ph"
+	defaultDictionaryLocale="ru" 
+	description="Created with dbriskin"
+	index="4"/>
+</Keyboards>

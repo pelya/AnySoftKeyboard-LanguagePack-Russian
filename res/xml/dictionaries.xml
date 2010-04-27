@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+	<!--
+	id := a UUID (you may want to generate this using our simple Java program at:  /trunk/project/dict_creation (uuidgen_Windows.bat or uuidgen_Linux)
+	locale := a locate identifier for this dictionary. E.g., English will be en, Hebrew will be iw, etc.
+	nameResId := the resource Id which holds the name of the dictionary. See strings.xml.
+	type := currently we only support binary dictionaries.
+	dictionaryAssertName := the binary data holder
+	description := some text you would like to add.
+	 -->
+	<Dictionary nameResId="@string/russian_dictionary" locale="ru" id="afd228a6-3101-4998-b9c6-1e28aecc0e7a" type="binary" dictionaryAssertName="ru_binary.mp3" description=""/>
+</Dictionaries>
