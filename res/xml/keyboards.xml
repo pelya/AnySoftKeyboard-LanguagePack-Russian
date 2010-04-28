@@ -25,7 +25,7 @@
 	physicalKeyboardMappingResId="@xml/ru_physical" 
 	iconResId="@drawable/ru"
 	defaultDictionaryLocale="ru" 
-	description="Created with dbriskin"
+	description="Created with igormar"
 	index="2"/>
 	<Keyboard 
 	id="44e7cf9d-5b43-4b55-b1ce-ad755d1948b2" 
@@ -44,6 +44,6 @@
 	physicalKeyboardMappingResId="@xml/ru_ph_physical" 
 	iconResId="@drawable/ru_ph"
 	defaultDictionaryLocale="ru" 
-	description="Created with dbriskin"
+	description="Created with igormar"
 	index="4"/>
 </Keyboards>
