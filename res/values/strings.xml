@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AnySoftKeyboard - Russian Language Pack</string>
-    <string name="ru_keyboard">Russian</string>
-    <string name="ru_keyboard_extra_rows">Russian with extended rows</string>
-    <string name="ru_ph_keyboard">Russian Phonetic</string>
-    <string name="ru_ph_keyboard_extra_rows">Russian Phonetic with extended rows</string>
-    <string name="russian_dictionary">Russian</string>
+    <string name="ru_keyboard">Русский</string>
+    <string name="ru_keyboard_extra_rows">Русский с расширенным рядом</string>
+    <string name="ru_ph_keyboard">Русский Фонетический</string>
+    <string name="ru_ph_keyboard_extra_rows">Русский Фонетический с расширенным рядом</string>
+    <string name="russian_dictionary">Русский</string>
 </resources>
