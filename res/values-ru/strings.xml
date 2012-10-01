@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnySoftKeyboard - русская клавиатура с большими клавишами</string>
+    <string name="russian_27_keys">Русский 27 клавиш</string>
+    <string name="russian_25_keys">Русский 25 клавиш</string>
+    <string name="russian_27_keys_desc">Менее используемые буквы вызываются длительным нажатием</string>
+</resources>

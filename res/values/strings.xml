@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AnySoftKeyboard - change_me Language Pack</string>
-    <string name="keyboard_name">change_me keyboard</string>
-    <string name="dictionary_name">change_me</string>
+    <string name="app_name">AnySoftKeyboard - Russian keyboard with large buttons</string>
+    <string name="russian_27_keys">Russian 27 keys</string>
+    <string name="russian_25_keys">Russian 25 keys</string>
+    <string name="russian_27_keys_desc">Less-used letters typed by long-press</string>
+    <string name="dictionary_name">Dummy dict</string>
 </resources>
