@@ -57,7 +57,7 @@
 
     <target
         name="-pre-build"
-        depends="-set-build-type-value,-pre-build-makedict,-pre-build-verify-pack-release,-pre-build-verify-pack-debug" >
+        depends="-set-build-type-value" > <!-- -set-build-type-value,-pre-build-makedict,-pre-build-verify-pack-release,-pre-build-verify-pack-debug -->
     </target>
 
 </project>
