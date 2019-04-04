@@ -7,6 +7,8 @@
     <string name="russian2_dictionary_name">Русский</string>
     <string name="russian2_russian_27_keys">Русский 27 клавиш</string>
     <string name="russian2_russian_25_keys">Русский 25 клавиш</string>
-    <string name="russian2_russian_27_keys_desc">Редко используемые буквы вызываются длительным нажатием</string>
+    <string name="russian2_russian_27_keys_desc">Редко используемые символы при длительном нажатии</string>
     <string name="russian2_cyrillic_name">Кириллица</string>
+    <string name="russian2_cyrillic_keys_desc">Кириллические символы при длительном нажатии</string>
+    <string name="russian2_cyrillic_27_name">Кириллица 27 клавиш</string>
 </resources>

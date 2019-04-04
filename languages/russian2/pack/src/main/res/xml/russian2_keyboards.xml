@@ -74,12 +74,23 @@
 
     <Keyboard
         defaultDictionaryLocale="ru"
-        description="Кириллические символы при длительном нажатии"
+        description="@string/russian2_cyrillic_keys_desc"
         iconResId="@drawable/ic_status_russian2"
         id="d604b360-a527-11e8-b568-0800200c9a66"
         index="7"
         landscapeResId="@xml/cyrillic_qwerty"
         layoutResId="@xml/cyrillic_qwerty"
         nameResId="@string/russian2_cyrillic_name"
+        physicalKeyboardMappingResId="@xml/cyrillic_physical" />
+
+    <Keyboard
+        defaultDictionaryLocale="ru"
+        description="@string/russian2_cyrillic_keys_desc"
+        iconResId="@drawable/ic_status_russian2"
+        id="d604b360-a527-11e8-b568-0800200c9a66"
+        index="8"
+        landscapeResId="@xml/cyrillic_qwerty27"
+        layoutResId="@xml/cyrillic_qwerty27"
+        nameResId="@string/russian2_cyrillic_27_name"
         physicalKeyboardMappingResId="@xml/cyrillic_physical" />
 </Keyboards>
