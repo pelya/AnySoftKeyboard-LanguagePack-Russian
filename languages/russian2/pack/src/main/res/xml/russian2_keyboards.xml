@@ -87,7 +87,7 @@
         defaultDictionaryLocale="ru"
         description="@string/russian2_cyrillic_keys_desc"
         iconResId="@drawable/ic_status_russian2"
-        id="d604b360-a527-11e8-b568-0800200c9a66"
+        id="de126690-570d-11e9-b475-0800200c9a66"
         index="8"
         landscapeResId="@xml/cyrillic_qwerty27"
         layoutResId="@xml/cyrillic_qwerty27"
